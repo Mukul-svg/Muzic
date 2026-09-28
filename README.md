@@ -28,12 +28,3 @@ A minimal, aesthetic **Neo-Brutalist Glass Pomodoro Timer** & **Ambient YouTube 
   - <kbd>Esc</kbd>: Close Drawer / Modals
 
 ---
-
-## 🚀 GitHub Pages Deployment
-
-1. Go to your repository on GitHub: `https://github.com/Mukul-svg/Muzic`
-2. Navigate to **Settings** &rarr; **Pages** (under *Code and automation*).
-3. Under **Build and deployment** &rarr; **Branch**, select `main` and folder `/ (root)`.
-4. Click **Save**.
-5. Your live app will be published at:  
-   👉 **`https://mukul-svg.github.io/Muzic/`**
